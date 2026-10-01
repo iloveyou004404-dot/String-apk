@@ -1,0 +1,6 @@
+{
+  "name": "AIO Professional Settings",
+  "description": "Ultra-premium Android AIO Professional Settings app interface with futuristic Liquid Glass UI and complete A-Z phone controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
